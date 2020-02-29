@@ -1,0 +1,19 @@
+route save needs to recieve in the following way
+
+{
+	"PPL" : { "Lecture1" : "Topic 1", "Lecture2":"Topic 2", "Lecture3":"Topic 3", "Lecture4":"Topic 4"},
+	"Compiler-A" : { "Lecture1" : "Topic 1", "Lecture2":"Topic 2", "Lecture3":"Topic 3"},
+	"Compiler-B" : { "Lecture1" : "Topic 1", "Lecture2":"Topic 2", "Lecture3":"Topic 3"}
+}
+
+login route
+{
+	"username" : "user3",
+	"password" : "user3"
+}
+
+admin route
+{
+	"username" : "admin1",
+	"password" : "admin1"
+}

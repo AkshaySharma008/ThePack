@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-sms",
+      "/home/gitpurush/Desktop/Hackathon/FestivalOfFuture-PCMC/Saathi1"
+    ]
+  ],
+  "_from": "cordova-plugin-sms@latest",
+  "_id": "cordova-plugin-sms@1.0.5",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-sms",
+  "_nodeVersion": "4.2.1",
+  "_npmUser": {
+    "email": "rjfun.mobile@gmail.com",
+    "name": "floatinghotpot"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-sms",
+    "raw": "cordova-plugin-sms",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-sms/-/cordova-plugin-sms-1.0.5.tgz",
+  "_shasum": "66440954c19f73ee3e8e35e5c71ae123f43cb7b2",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-sms",
+  "_where": "/home/gitpurush/Desktop/Hackathon/FestivalOfFuture-PCMC/Saathi1",
+  "author": {
+    "email": "rjfun.mobile@gmail.com",
+    "name": "Raymond Xie"
+  },
+  "bugs": {
+    "url": "https://github.com/floatinghotpot/cordova-plugin-sms/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-sms",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova plugin to operate SMS, send/list/intercept/delete/restore",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "66440954c19f73ee3e8e35e5c71ae123f43cb7b2",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-sms/-/cordova-plugin-sms-1.0.5.tgz"
+  },
+  "gitHead": "773fe2cc31c51a09e303ac48d32cf7605379ff4a",
+  "homepage": "https://github.com/floatinghotpot/cordova-plugin-sms#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "rjfun",
+    "sms"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "floatinghotpot",
+      "email": "rjfun.mobile@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-sms",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/floatinghotpot/cordova-plugin-sms.git"
+  },
+  "scripts": {},
+  "version": "1.0.5"
+}

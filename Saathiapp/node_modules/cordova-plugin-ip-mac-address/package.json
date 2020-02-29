@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-ip-mac-address",
+      "/home/gitpurush/Desktop/Hackathon/FestivalOfFuture-PCMC/Saathi1"
+    ]
+  ],
+  "_from": "cordova-plugin-ip-mac-address@latest",
+  "_id": "cordova-plugin-ip-mac-address@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-ip-mac-address",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-ip-mac-address-1.0.1.tgz_1502351967508_0.21373294130899012"
+  },
+  "_npmUser": {
+    "email": "suryagovindaraju@gmail.com",
+    "name": "suryaadabala"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-ip-mac-address",
+    "raw": "cordova-plugin-ip-mac-address",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-ip-mac-address/-/cordova-plugin-ip-mac-address-1.0.1.tgz",
+  "_shasum": "cc585ea3ec295f1ef222135ccbb6f8dab8d5efd0",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-ip-mac-address",
+  "_where": "/home/gitpurush/Desktop/Hackathon/FestivalOfFuture-PCMC/Saathi1",
+  "author": {
+    "name": "govindharaju.adabala@techvedika.com"
+  },
+  "bugs": {
+    "url": "https://github.com/surya/cordova-plugin-ip-mac-address/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-ip-mac-address",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "cordova-plugin-ip-mac-address",
+  "devDependencies": {
+    "xcode": "0.9.1"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-N8I0oJF2hfokOMtcE4K49mIuZeLrF53IIylAYCHxBoqTK3fMwnMDLyggP1JN+iRYdfmJGPHhFj4Q0wKQuCjp/A==",
+    "shasum": "cc585ea3ec295f1ef222135ccbb6f8dab8d5efd0",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-ip-mac-address/-/cordova-plugin-ip-mac-address-1.0.1.tgz"
+  },
+  "gitHead": "85fd5d79935af917b5d5d2dde04f99cc1d8e4ef3",
+  "homepage": "https://github.com/surya/cordova-plugin-ip-mac-address#readme",
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "ecosystem:cordova",
+    "ocr"
+  ],
+  "license": "ISC",
+  "maintainers": [
+    {
+      "name": "suryaadabala",
+      "email": "suryagovindaraju@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-ip-mac-address",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surya/cordova-plugin-ip-mac-address.git"
+  },
+  "version": "1.0.1"
+}

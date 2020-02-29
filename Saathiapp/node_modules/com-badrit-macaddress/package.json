@@ -1,0 +1,79 @@
+{
+  "_args": [
+    [
+      "com-badrit-macaddress",
+      "/home/gitpurush/Desktop/Hackathon/FestivalOfFuture-PCMC/Saathi1"
+    ]
+  ],
+  "_from": "com-badrit-macaddress@latest",
+  "_id": "com-badrit-macaddress@0.2.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/com-badrit-macaddress",
+  "_nodeVersion": "0.12.2",
+  "_npmUser": {
+    "email": "mohamed.salah@badrit.com",
+    "name": "mohamed.salah"
+  },
+  "_npmVersion": "2.7.4",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "com-badrit-macaddress",
+    "raw": "com-badrit-macaddress",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-badrit-macaddress/-/com-badrit-macaddress-0.2.0.tgz",
+  "_shasum": "0cd1c309cc895b600d65044593a8d12f5e8a55cf",
+  "_shrinkwrap": null,
+  "_spec": "com-badrit-macaddress",
+  "_where": "/home/gitpurush/Desktop/Hackathon/FestivalOfFuture-PCMC/Saathi1",
+  "bugs": {
+    "url": "https://github.com/mohamed-salah/MacAddress/issues"
+  },
+  "cordova": {
+    "id": "com-badrit-macaddress",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova MacAddress Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0cd1c309cc895b600d65044593a8d12f5e8a55cf",
+    "tarball": "https://registry.npmjs.org/com-badrit-macaddress/-/com-badrit-macaddress-0.2.0.tgz"
+  },
+  "gitHead": "7c2a4d9e1e0da885c25391f21d8deccf1b8c1ab0",
+  "homepage": "https://github.com/mohamed-salah/MacAddress",
+  "keywords": [
+    "cordova",
+    "cordova-android",
+    "cordova-ios",
+    "ecosystem:cordova",
+    "macaddress"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "mohamed.salah",
+      "email": "mohamed.salah@badrit.com"
+    }
+  ],
+  "name": "com-badrit-macaddress",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohamed-salah/MacAddress.git"
+  },
+  "scripts": {},
+  "version": "0.2.0"
+}

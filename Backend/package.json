@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend for timetable adjust",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "satya",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.0",
+    "fast2sms": "^1.0.3",
+    "file-saver": "^2.0.2",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mssql": "^6.1.0",
+    "mysql": "^2.17.1",
+    "nodemailer": "^6.4.3",
+    "nodemon": "^2.0.2",
+    "npm": "^6.13.7",
+    "path": "^0.12.7",
+    "sqlstring": "^2.3.1",
+    "unirest": "^0.6.0"
+  }
+}
